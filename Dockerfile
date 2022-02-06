@@ -5,7 +5,7 @@ RUN apt-get update && apt-get install -y sudo wget vim curl gawk make gcc
 RUN wget https://repo.continuum.io/archive/Anaconda3-2019.03-Linux-x86_64.sh && \
     sh Anaconda3-2019.03-Linux-x86_64.sh -b  && \
     rm -f Anaconda3-2019.03-Linux-x86_64.sh && \
-    sudo curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -  && \
+    sudo curl -sL https://deb.nod5esource.com/setup_10.x | sudo bash -  && \
     sudo apt-get install -y nodejs
 
 ENV PATH $PATH:/root/anaconda3/bin
@@ -26,4 +26,4 @@ RUN wget --quiet http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.
 
 RUN mkdir /workspace
 
-CMD ["jupyter-lab", "--ip=0.0.0.0","--port=8888" ,"--no-browser", "--allow-root", "--LabApp.token=''"]
+CMD ["jupyter-lab", "--ip=0.0.0.0","--port=8888" ,"--no-browser", "--allow-root", "--LabApp.token='mitatoken'"]
