@@ -1,0 +1,69 @@
+固定ページ名(管理画面）,URL
+TOPページ,https://test-awe-some.best/
+商品一覧ページ,https://test-awe-some.best/productslist
+商品詳細ページ,https://test-awe-some.best/products/detail/{ID}
+ABOUT,https://test-awe-some.best/about
+Company,https://test-awe-some.best/company
+ご利用ガイド,https://test-awe-some.best/guide
+現在のカゴの中,https://test-awe-some.best/cart
+ご利用規約,https://test-awe-some.best/help/agreement
+当サイトについて,https://test-awe-some.best/help/about
+プライバシーポリシー,https://test-awe-some.best/help/privacy
+特定商取引に関する法律に基づく表記,https://test-awe-some.best/help/tradelaw
+APPRAREL LIST PAGE,https://test-awe-some.best/apparel
+HIGHEND,https://test-awe-some.best/apparel/highend
+MODE,https://test-awe-some.best/apparel/mode
+STREET,https://test-awe-some.best/apparel/street
+LUXURY,https://test-awe-some.best/apparel/luxury
+ACCESSORIES,https://test-awe-some.best/accessories
+WATCH,https://test-awe-some.best/watch
+SHOES,https://test-awe-some.best/shoes
+,https://test-awe-some.best/bags
+LIFESTYLE,https://test-awe-some.best/lifestyle
+商品購入,https://test-awe-some.best/shopping
+商品購入/お届け先の指定,https://test-awe-some.best/shopping/shipping/{id}
+商品購入/お届け先の複数指定,https://test-awe-some.best/shopping/shipping_multiple
+商品購入/ご注文完了,https://test-awe-some.best/shopping/complete
+商品購入ログイン,https://test-awe-some.best/shopping/login
+非会員購入情報入力,https://test-awe-some.best/shopping/nonmember
+商品購入/お届け先の追加,https://test-awe-some.best/shopping/shipping_edit/{id}
+商品購入/お届け先の複数指定(お届け先の追加),https://test-awe-some.best/shopping/shipping_multiple_edit
+商品購入/購入エラー,https://test-awe-some.best/shopping/error
+商品購入/遷移,https://test-awe-some.best/shopping/redirect_to
+商品購入/ご注文確認,https://test-awe-some.best/shopping/confirm
+パスワード再発行(入力ページ),https://test-awe-some.best/forgot
+パスワード再発行(完了ページ),https://test-awe-some.best/forgot/complete
+パスワード再発行(再設定ページ),https://test-awe-some.best/forgot/reset/{reset_key}
+本会員登録(完了ページ),https://test-awe-some.best/entry/activate/{secret_key}/{qtyInCart}
+会員登録(入力ページ),https://test-awe-some.best/entry
+会員登録(完了ページ),https://test-awe-some.best/entry/complete
+Login Page,https://test-awe-some.best/login
+Login Complete,https://test-awe-some.best/login-complete
+Login Settlement,https://test-awe-some.best/login-settlement
+Settlement Complete,https://test-awe-some.best/login-settlement-complete
+お問い合わせ(入力ページ),https://test-awe-some.best/contact
+お問い合わせ(完了ページ),https://test-awe-some.best/contact-thanks
+MYページ,https://test-awe-some.best/mypage
+MYページ/カード情報編集,https://test-awe-some.best/mypage/gmo_card_edit
+MYPAGE ORDER HISTORY,https://test-awe-some.best/mypage/order-history
+memberinfo.twig,https://test-awe-some.best/mypage/memberinfo
+mypage/memberinfo_complete.twig,https://test-awe-some.best/mypage/memberinfo/complete
+MYPAGE ADDRESS,https://test-awe-some.best/mypage/address
+MYPAGE ADDRESS EDIT,https://test-awe-some.best/mypage/address/edit
+MYページ/会員登録内容変更(入力ページ),https://test-awe-some.best/mypage/change
+MYページ/会員登録内容変更(完了ページ),https://test-awe-some.best/mypage/change_complete
+MYページ/お届け先一覧,https://test-awe-some.best/mypage/delivery
+MYページ/お届け先追加,https://test-awe-some.best/mypage/delivery/new
+MYページ/お気に入り一覧,https://test-awe-some.best/mypage/favorite
+MYページ/購入履歴詳細,https://test-awe-some.best/mypage/history/{order_no}
+MYページ/退会手続き(入力ページ),https://test-awe-some.best/mypage/withdraw
+MYページ/退会手続き(完了ページ),https://test-awe-some.best/mypage/withdraw_complete
+MYPAGE ADDRESS NEW,https://test-awe-some.best/mypage/address/add
+MYPAGE ADDRESS EDIT,https://test-awe-some.best/mypage/address/{id}/edit
+MYPAGE ADDRESS MAIN EDIT,https://test-awe-some.best/mypage/address/mainedit
+MYページ/ログイン,https://test-awe-some.best/mypage/login
+,https://test-awe-some.best/news/
+LEGAL INFORMATION,https://test-awe-some.best/legalinformation
+,https://www.instagram.com/test-awesomebybring/?hl=ja
+,https://line.me/R/ti/p/%40297qudhx
+,https://kaitorisatei.info/
